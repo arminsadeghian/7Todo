@@ -1,0 +1,13 @@
+{
+    "name": "arminsadeghian/7todo",
+    "type": "project",
+    "license": "MIT",
+    "require": {
+        "PHP": "^8.0",
+        "vlucas/phpdotenv": "^5.5",
+        "ext-pdo": "*"
+    },
+    "require-dev": {
+        "larapack/dd": "^1.1"
+    }
+}
